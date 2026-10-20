@@ -1,4 +1,4 @@
-Name: Jane Doe
-Roll Number: LCI2026001
+Name: satyam kumar
+Roll Number: LCI2026035
 Branch: Computer Science & Artificial Intelligence (CSAI)
-GitHub Username: janedoe
+GitHub Username: satyam_kumar
